@@ -1,5 +1,5 @@
 # OldHouseTextGame
-Przygodowa gra konsolowa dla systemu Widnows.
+Przygodowa gra konsolowa dla systemu Windows.
 
 Wcielasz się w rolę dzielnego poszukiwacza przygód, który ma za zadanie zabić piekielnego smoka terroryzującego Stary Dom. Twoja podróż rozpoczyna się na prostokątnej planszy, gdzie każdy pokój kryje nowe wyzwania i niebezpieczeństwa.
 
